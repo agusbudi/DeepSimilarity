@@ -1,5 +1,6 @@
-disclaimer:
-I created this repo for trying image similarity with VGG16, VGG19, and Resnet50. Here is my colab: https://colab.research.google.com/drive/1PhR5sPv6X8tKBud5QV9x_xIMrwZYhGS8
+**disclaimer**
+
+I created this repo to explore image similarity with VGG16, VGG19, and Resnet50. Here is my colab: https://colab.research.google.com/drive/1PhR5sPv6X8tKBud5QV9x_xIMrwZYhGS8
 
 I do not have the copyright. Please respect the original sources mentioned below.
 
@@ -10,6 +11,7 @@ Source of original code and images data:
 I did some modification in VGG16.py : change from keras.engine.topology import get_source_inputs to from keras.utils.layer_utils import get_source_inputs
 
 Dataset:
-- The HyperKvasir Dataset https://osf.io/mh9sj/
+- The HyperKvasir Dataset https://osf.io/mh9sj/ or https://github.com/simula/hyper-kvasir
 
-Thank you for your visit!
+
+*Thank you for your visit!*
