@@ -12,6 +12,7 @@ I did some modification in VGG16.py : change from keras.engine.topology import g
 
 Dataset:
 - The HyperKvasir Dataset https://osf.io/mh9sj/ or https://github.com/simula/hyper-kvasir
+- Data from CHU Nantes
 
 
 *Thank you for your visit!*
